@@ -104,4 +104,4 @@ This project is useful for learning:
 
 ## 👨‍💻 Author
 
-Harish Balaji
+Harish.B
